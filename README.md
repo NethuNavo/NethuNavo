@@ -3,6 +3,7 @@ Hi there, I'm Nethmini Navodya Jayamani ! ❤⭐
 I’m a passionate undergraduate from NSBM Green University with experience in mobile app development and competitive Karate. I love creating modern, user-friendly apps and representing Sri Lanka in national-level sports.
 
 🛠 Tech Stack
+
 Languages: Dart, Java, HTML, CSS, JavaScript, PHP
 
 Frameworks: Flutter
@@ -24,6 +25,7 @@ NSBM Karate Club – Girls' Captain 🥋
 Volunteer & Designer – NSBM Clubs
 
 📱 Projects
+
 GoWay App
 A mobile app for scanning QR codes to manage event participation, built with Flutter & Firebase.
 🔧 Dart, Firebase Auth, Firestore, Realtime DB
@@ -53,11 +55,13 @@ An athlete performance tracking app designed for martial artists.
 🔧 Flutter, Firebase
 
 📚 Research
+
 Co-Author: "Enhancing Security with Biometric and Heart Rate Data Integration"
 Published at ICACT – NSBM Green University 2024 Conference.
 Conducted research on biometric authentication and cybersecurity under expert guidance.
 
 ✨ Highlights
+
 Over 10 years of Karate experience – 3rd Dan Black Belt
 
 Designed UI/UX for multiple NSBM club initiatives
@@ -65,6 +69,7 @@ Designed UI/UX for multiple NSBM club initiatives
 Strong leadership, teamwork, and public speaking skills
 
 📫 Let's Connect!
+
 LinkedIn: Nethmini Navodya (https://www.linkedin.com/in/nethmini-navodya)
 
 Email: [nethunavo24@gmail.com]
