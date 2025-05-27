@@ -10,47 +10,47 @@ Frameworks: Flutter
 
 Database & Backend: Firebase (Authentication, Firestore, Realtime DB), MySQL
 
-Tools: Git, GitHub, Figma, Adobe XD, Android Studio, XAMPP
+Tools: Git, GitHub, Figma, Canva, Adobe XD, Android Studio, XAMPP
 
 Other Skills: UI/UX Design, QR Code Scanning Integration, Responsive Web Design
 
 🏆 Achievements
 
-Best Player – NSBM Sports Fiesta 2025 🥋🎖
+• Best Player – NSBM Sports Fiesta 2025 🥋🎖
 
-National Level Karate Player 🥋🎖
+• National Level Karate Player 🥋🎖
 
-NSBM Karate Club – Girls' Captain 🥋
+• NSBM Karate Club – Girls' Captain 🥋
 
 Volunteer & Designer – NSBM Clubs
 
 📱 Projects
 
-GoWay App
+• GoWay App
 A mobile app for scanning QR codes to manage event participation, built with Flutter & Firebase.
 🔧 Dart, Firebase Auth, Firestore, Realtime DB
 
-Garage Management System
+• Garage Management System
 A complete vehicle garage service management platform with customer, mechanic, and service tracking modules.
 🔧 PHP, MySQL, HTML, CSS, Bootstrap
 
-EduTrack
+• EduTrack
 An educational progress tracker designed for students to log academic performance and class activities.
 🔧 Flutter, Firebase
 
-Aura Serene (UI/UX Focused Project)
+• Aura Serene (UI/UX Focused Project)
 A mental wellness mobile app concept that provides relaxation techniques and mood tracking.
 🔧 Figma, Flutter (prototype level)
-
-Cinema Website
+ 
+• Cinema Website
 A responsive web application for booking movie tickets and managing cinema schedules.
 🔧 HTML, CSS, JavaScript, PHP, MySQL
 
-EventManager (Upcoming)
+• EventManager (Upcoming)
 App for university event registration and real-time updates.
 🔧 Flutter, Firebase
 
-KarateTracker (Upcoming)
+• KarateTracker (Upcoming)
 An athlete performance tracking app designed for martial artists.
 🔧 Flutter, Firebase
 
@@ -77,4 +77,4 @@ Email: [nethunavo24@gmail.com]
 GitHub: github.com/NethuNavo (https://github.com/NethuNavo)
 
 
-“Discipline, consistency, and creativity are my cornerstones – whether in code or on the mat. ❤⭐ ” 
+Discipline, consistency, and creativity are my cornerstones – whether in code or on the mat. ❤⭐  
