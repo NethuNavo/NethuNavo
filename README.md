@@ -1,4 +1,4 @@
-Hi there, I'm Nethmini Jayamani ! ❤⭐
+Hi there, I'm Nethmini Navodya Jayamani ! ❤⭐
 
 I’m a passionate undergraduate from NSBM Green University with experience in mobile app development and competitive Karate. I love creating modern, user-friendly apps and representing Sri Lanka in national-level sports.
 
@@ -14,6 +14,7 @@ Tools: Git, GitHub, Figma, Adobe XD, Android Studio, XAMPP
 Other Skills: UI/UX Design, QR Code Scanning Integration, Responsive Web Design
 
 🏆 Achievements
+
 Best Player – NSBM Sports Fiesta 2025 🥋🎖
 
 National Level Karate Player 🥋🎖
