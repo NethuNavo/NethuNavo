@@ -95,16 +95,12 @@ Strong leadership, teamwork, and public speaking skills
 
 📫 Let's Connect!
 
- <a href="https://www.linkedin.com/in/your-linkedin" target="_blank">
-    <img src="linkdin logo.png" alt="LinkedIn"width="40" /> LinkedIn: Nethmini Navodya (https://www.linkedin.com/in/nethmini-navodya)
+LinkedIn: Nethmini Navodya (https://www.linkedin.com/in/nethmini-navodya)
 
-<a href="mailto:nethunavo24@gmail.com">
-    <img src="gnail logo.png" alt="Gmail" width="40" /> Email: [nethunavo24@gmail.com]
+Gmail: [nethunavo24@gmail.com]
 
-<a href="https://github.com/YourGitHubUsername" target="_blank">
-    <img src="Github.png" alt="GitHub" width="40" /> GitHub: github.com/NethuNavo (https://github.com/NethuNavo)
+GitHub: github.com/NethuNavo (https://github.com/NethuNavo)
 
- <a href="https://www.instagram.com/your.instagram" target="_blank">
-    <img src="insta logo.jpeg" alt="Instagram" width="40" /> Instagram: nethu__n__ (https://www.instagram.com/nethu__n__)
+Instagram: nethu__n__ (https://www.instagram.com/nethu__n__)
 
 Discipline, consistency, and creativity are my cornerstones – whether in code or on the mat. ❤⭐  
