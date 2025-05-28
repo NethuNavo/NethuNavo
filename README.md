@@ -18,19 +18,23 @@ Tools: Git, GitHub, Figma, Canva, Adobe XD, Android Studio, XAMPP
 
 Other Skills: UI/UX Design, QR Code Scanning Integration, Responsive Web Design
 
-🏆 Achievements 
+<h3 align="center">🏆 Achievements</h3>
 
-<p align="center">
-  <img src="Karate Anim.jpg" alt="My Profile Picture" width="200"/>
-</p>
+<table>
+  <tr>
+    <td>
 
-• Best Player – NSBM Sports Fiesta 2025 🥋🎖
+🔹 **Best Player – NSBM Sports Fiesta 2025** 🥋🎖  
+🔹 **National Level Karate Player** 🥋🎖  
+🔹 **NSBM Karate Club – Girls' Captain** 🥋  
+🔹 **Volunteer & Designer – NSBM Clubs**
 
-• National Level Karate Player 🥋🎖
-
-• NSBM Karate Club – Girls' Captain 🥋
-
-Volunteer & Designer – NSBM Clubs
+    </td>
+    <td align="right">
+      <img src="Karate Anim.jpg" alt="Karate Image" width="200"/>
+    </td>
+  </tr>
+</table>
 
 <h3 align="center">📱 Projects</h3>
 
