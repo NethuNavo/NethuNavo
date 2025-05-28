@@ -24,17 +24,18 @@ Other Skills: UI/UX Design, QR Code Scanning Integration, Responsive Web Design
   <tr>
     <td>
 
-🔹 **Best Player – NSBM Sports Fiesta 2025** 🥋🎖  
-🔹 **National Level Karate Player** 🥋🎖  
-🔹 **NSBM Karate Club – Girls' Captain** 🥋  
-🔹 **Volunteer & Designer – NSBM Clubs**
+- 🔹 **Best Player – NSBM Sports Fiesta 2025** 🥋🎖  
+- 🔹 **National Level Karate Player** 🥋🎖  
+- 🔹 **NSBM Karate Club – Girls' Captain** 🥋  
+- 🔹 **Volunteer & Designer – NSBM Clubs**
 
     </td>
     <td align="right">
-      <img src="Karate%20Anim.jpg" alt="Karate Image" width="200"/>
+      <img src="Karate Anim.jpg" alt="Karate Image" width="200" />
     </td>
   </tr>
 </table>
+
 
 <h3 align="center">📱 Projects</h3>
 
