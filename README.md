@@ -1,14 +1,13 @@
 <h3 align="center">☁️✨ Quote</h3>
 
-<table>
-  <tr>
-    <td align="center">
-    
-<em><strong>•|| Discipline, consistency, and creativity are my cornerstones – whether in code or on the mat. ❤️⭐</strong></em>
+<p align="center">
+  <img src="https://github.com/NethuNavo/NethuNavo/blob/main/leaves.jpeg" alt="Leaves Banner" width="300" />
+</p>
 
-  </td>
-  </tr>
-</table>
+<p align="center">
+  <em><strong>•|| Discipline, consistency, and creativity are my cornerstones – whether in code or on the mat. ❤️⭐</strong></em>
+</p>
+
 
 Hi , I'm Nethmini Jayamani ! ❤⭐
 
