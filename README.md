@@ -134,7 +134,7 @@ Athlete performance tracking app for martial artists.
 </p>
 </details>
 
-    </td>
+  </td>
   </tr>
   
   <tr>
