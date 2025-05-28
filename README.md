@@ -1,3 +1,15 @@
+<h3 align="center">☁️✨ Quote</h3>
+
+<table>
+  <tr>
+    <td align="center">
+    
+<em><strong>•|| Discipline, consistency, and creativity are my cornerstones – whether in code or on the mat. ❤️⭐</strong></em>
+
+  </td>
+  </tr>
+</table>
+
 Hi , I'm Nethmini Jayamani ! ❤⭐
 
 <table width="100%">
@@ -123,15 +135,5 @@ Strong leadership, teamwork, and public speaking skills
 [![GitHub](https://img.shields.io/badge/GitHub-NethuNavo-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NethuNavo)
 [![Instagram](https://img.shields.io/badge/Instagram-nethu__n__-purple?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nethu__n_n)
 
-<h3 align="center">☁️✨ My Motto</h3>
 
-<table>
-  <tr>
-    <td align="center">
-    
-<em><strong>•|| Discipline, consistency, and creativity are my cornerstones – whether in code or on the mat. ❤️⭐</strong></em>
-
-  </td>
-  </tr>
-</table>
 
