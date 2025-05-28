@@ -15,7 +15,7 @@
 </table>
 
 
-Hi , I'm Nethmini Jayamani ! ❤⭐
+Hi , I'm Nethmini Jayamani ! ❤
 
 <table width="100%">
   <tr>
