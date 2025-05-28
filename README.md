@@ -62,11 +62,18 @@ App for university event registration and real-time updates.
 An athlete performance tracking app designed for martial artists.
 🔧 Flutter, Firebase
 
-📚 Research
+<h3 align="center">📚 Research</h3>
 
-Co-Author: "Enhancing Security with Biometric and Heart Rate Data Integration"
-Published at ICACT – NSBM Green University 2024 Conference.
-Conducted research on biometric authentication and cybersecurity under expert guidance.
+<div align="center">
+  <img src="https://img.shields.io/badge/Conference-ICACT--NSBM%202024-purple?style=for-the-badge" alt="Conference Badge">
+</div>
+
+<blockquote>
+  <strong>Co-Author:</strong> <em>"Enhancing Security with Biometric and Heart Rate Data Integration"</em><br>
+  <strong>Published at:</strong> ICACT – NSBM Green University 2024 Conference<br>
+  <strong>Overview:</strong> Conducted research on biometric authentication and cybersecurity under expert guidance.
+</blockquote>
+
 
 ✨ Highlights
 
