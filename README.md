@@ -10,7 +10,7 @@ Hi , I'm Nethmini Jayamani ! ❤⭐
 
 I’m a passionate undergraduate from NSBM Green University with experience in mobile app development and competitive Karate. I love creating modern, user-friendly apps and representing Sri Lanka in national-level sports.
 
-    </td>
+</td>
   </tr>
 </table>
 
