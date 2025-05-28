@@ -60,53 +60,55 @@ Other Skills: UI/UX Design, QR Code Scanning Integration, Responsive Web Design
   </tr>
 </table>
 
-
 <h3 align="center">📱 Projects</h3>
 
 <table>
-  <tr>
-    <td colspan="2">
-      <hr>
-    </td>
-  </tr>
-  
-  <tr>
-    <td valign="top" width="50%">
+  <thead>
+    <tr>
+      <th align="left">Project</th>
+      <th align="left">Description</th>
+      <th align="left">Tech Stack</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>🔹 <strong>GoWay App</strong></td>
+      <td>A mobile app for scanning QR codes to manage event participation.</td>
+      <td><em>Dart, Firebase Auth, Firestore, Realtime DB</em></td>
+    </tr>
+    <tr>
+      <td>🔹 <strong>Garage Management System</strong></td>
+      <td>Complete garage platform with customer, mechanic, and service tracking modules.</td>
+      <td><em>PHP, MySQL, HTML, CSS, Bootstrap</em></td>
+    </tr>
+    <tr>
+      <td>🔹 <strong>EduTrack</strong></td>
+      <td>Educational progress tracker for students to log performance and activities.</td>
+      <td><em>Flutter, Firebase</em></td>
+    </tr>
+    <tr>
+      <td>🔹 <strong>Aura Serene (UI/UX Focused)</strong></td>
+      <td>Mental wellness mobile app concept with relaxation and mood tracking.</td>
+      <td><em>Figma, Flutter (Prototype)</em></td>
+    </tr>
+    <tr>
+      <td>🔹 <strong>Cinema Website</strong></td>
+      <td>Responsive movie ticket booking and schedule management platform.</td>
+      <td><em>HTML, CSS, JavaScript, PHP, MySQL</em></td>
+    </tr>
+    <tr>
+      <td>🔹 <strong>EventManager</strong> <em>(Upcoming)</em></td>
+      <td>University event registration and real-time update app.</td>
+      <td><em>Flutter, Firebase</em></td>
+    </tr>
+    <tr>
+      <td>🔹 <strong>KarateTracker</strong> <em>(Upcoming)</em></td>
+      <td>Athlete performance tracking app for martial artists.</td>
+      <td><em>Flutter, Firebase</em></td>
+    </tr>
+  </tbody>
+</table>
 
-<details>
-<summary>🔹 <strong>GoWay App</strong></summary>
-<p>
-A mobile app for scanning QR codes to manage event participation.  
-🛠️ <em>Dart, Firebase Auth, Firestore, Realtime DB</em>
-</p>
-</details>
-
-<details>
-<summary>🔹 <strong>Garage Management System</strong></summary>
-<p>
-Complete garage platform with customer, mechanic, and service tracking modules.  
-🛠️ <em>PHP, MySQL, HTML, CSS, Bootstrap</em>
-</p>
-</details>
-
-<details>
-<summary>🔹 <strong>EduTrack</strong></summary>
-<p>
-Educational progress tracker for students to log performance and activities.  
-🛠️ <em>Flutter, Firebase</em>
-</p>
-</details>
-
-<details>
-<summary>🔹 <strong>Aura Serene (UI/UX Focused)</strong></summary>
-<p>
-Mental wellness mobile app concept with relaxation and mood tracking.  
-🛠️ <em>Figma, Flutter (Prototype)</em>
-</p>
-</details>
-
-    </td>
-    <td valign="top" width="50%">
 
 <details>
 <summary>🔹 <strong>Cinema Website</strong></summary>
