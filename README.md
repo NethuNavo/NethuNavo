@@ -1,21 +1,18 @@
-
-
 <table>
   <tr>
-    <td align="center" width="100">
-      <img src="https://github.com/NethuNavo/NethuNavo/blob/main/leaves.jpeg" alt="Leaves Left" width="100" />
+    <td align="center" width="150">
+      <img src="https://github.com/NethuNavo/NethuNavo/blob/main/leaves.jpeg" alt="Leaves Left" width="150" />
     </td>
     <td align="center">
 
 <em><strong>•|| Discipline, consistency, and creativity are my cornerstones – whether in code or on the mat. ❤️⭐</strong></em>
 
   </td>
-  <td align="center" width="100">
-      <img src="https://github.com/NethuNavo/NethuNavo/blob/main/leaves.jpeg" alt="Leaves Right" width="100" />
+    <td align="center" width="150">
+      <img src="https://github.com/NethuNavo/NethuNavo/blob/main/leaves.jpeg" alt="Leaves Right" width="150" />
     </td>
   </tr>
 </table>
-
 
 
 Hi , I'm Nethmini Jayamani ! ❤⭐
