@@ -1,6 +1,5 @@
 Hi , I'm Nethmini Jayamani ! ❤⭐
 
-![My Profile Picture](Karate%20Anim.jpg)
 <p align="center">
   <img src="Karate Anim.jpg" alt="My Profile Picture" width="200"/>
 </p>
