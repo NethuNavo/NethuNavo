@@ -32,35 +32,36 @@ Other Skills: UI/UX Design, QR Code Scanning Integration, Responsive Web Design
 
 Volunteer & Designer – NSBM Clubs
 
-📱 Projects
+<h3 align="center">📱 Projects</h3>
 
-• GoWay App
-A mobile app for scanning QR codes to manage event participation, built with Flutter & Firebase.
-🔧 Dart, Firebase Auth, Firestore, Realtime DB
+> 🔹 **GoWay App**  
+> A mobile app for scanning QR codes to manage event participation.  
+> 🛠️ *Dart, Firebase Auth, Firestore, Realtime DB*  
+>
+> 🔹 **Garage Management System**  
+> Complete garage platform with customer, mechanic, and service tracking modules.  
+> 🛠️ *PHP, MySQL, HTML, CSS, Bootstrap*  
+>
+> 🔹 **EduTrack**  
+> Educational progress tracker for students to log performance and activities.  
+> 🛠️ *Flutter, Firebase*  
+>
+> 🔹 **Aura Serene (UI/UX Focused)**  
+> Mental wellness mobile app concept with relaxation and mood tracking.  
+> 🛠️ *Figma, Flutter (Prototype)*  
+>
+> 🔹 **Cinema Website**  
+> Responsive movie ticket booking and schedule management platform.  
+> 🛠️ *HTML, CSS, JavaScript, PHP, MySQL*  
+>
+> 🔹 **EventManager** *(Upcoming)*  
+> University event registration and real-time update app.  
+> 🛠️ *Flutter, Firebase*  
+>
+> 🔹 **KarateTracker** *(Upcoming)*  
+> Athlete performance tracking app for martial artists.  
+> 🛠️ *Flutter, Firebase*
 
-• Garage Management System
-A complete vehicle garage service management platform with customer, mechanic, and service tracking modules.
-🔧 PHP, MySQL, HTML, CSS, Bootstrap
-
-• EduTrack
-An educational progress tracker designed for students to log academic performance and class activities.
-🔧 Flutter, Firebase
-
-• Aura Serene (UI/UX Focused Project)
-A mental wellness mobile app concept that provides relaxation techniques and mood tracking.
-🔧 Figma, Flutter (prototype level)
- 
-• Cinema Website
-A responsive web application for booking movie tickets and managing cinema schedules.
-🔧 HTML, CSS, JavaScript, PHP, MySQL
-
-• EventManager (Upcoming)
-App for university event registration and real-time updates.
-🔧 Flutter, Firebase
-
-• KarateTracker (Upcoming)
-An athlete performance tracking app designed for martial artists.
-🔧 Flutter, Firebase
 
 <h3 align="center">📚 Research</h3>
 
