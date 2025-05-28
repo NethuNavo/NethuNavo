@@ -74,7 +74,6 @@ An athlete performance tracking app designed for martial artists.
   </tr>
 </table>
 
-
 ✨ Highlights
 
 Over 10 years of Karate experience – 3rd Dan Black Belt
