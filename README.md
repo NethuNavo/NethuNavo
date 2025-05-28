@@ -62,6 +62,9 @@ Other Skills: UI/UX Design, QR Code Scanning Integration, Responsive Web Design
 
 <h3>📱 Projects</h3>
 
+
+
+
 - 🔹 **GoWay App**  
   A mobile app for scanning QR codes to manage event participation.  
   🛠️ *Dart, Firebase Auth, Firestore, Realtime DB*
@@ -89,6 +92,7 @@ Other Skills: UI/UX Design, QR Code Scanning Integration, Responsive Web Design
 - 🔹 **KarateTracker** *(Upcoming)*  
   Athlete performance tracking app for martial artists.  
   🛠️ *Flutter, Firebase*
+
 
 
 
