@@ -4,14 +4,11 @@ Hi , I'm Nethmini Jayamani ! ❤⭐
   <img src="Karate Anim.jpg" alt="My Profile Picture" width="200"/>
 </p>
 
-I'm a passionate undergraduate from NSBM Green University with experience in mobile app development...
-
-
-I'm a passionate undergraduate from NSBM Green University...
-
-
-
 I’m a passionate undergraduate from NSBM Green University with experience in mobile app development and competitive Karate. I love creating modern, user-friendly apps and representing Sri Lanka in national-level sports.
+
+<p align="center">
+  <img src="Developer.jpeg" alt="Developer GIF" width="250"/>
+</p>
 
 🛠 Tech Stack
 
