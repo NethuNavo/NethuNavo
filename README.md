@@ -1,14 +1,10 @@
 Hi , I'm Nethmini Jayamani ! ❤⭐
 
 <p align="center">
-  <img src="Karate Anim.jpg" alt="My Profile Picture" width="200"/>
+  <img src="Insomnia.gif" alt="Insomnia GIF" width="250"/>
 </p>
 
 I’m a passionate undergraduate from NSBM Green University with experience in mobile app development and competitive Karate. I love creating modern, user-friendly apps and representing Sri Lanka in national-level sports.
-
-<p align="center">
-  <img src="Insomnia.gif" alt="Insomnia GIF" width="250"/>
-</p>
 
 🛠 Tech Stack
 
@@ -22,7 +18,11 @@ Tools: Git, GitHub, Figma, Canva, Adobe XD, Android Studio, XAMPP
 
 Other Skills: UI/UX Design, QR Code Scanning Integration, Responsive Web Design
 
-🏆 Achievements
+🏆 Achievements 
+
+<p align="center">
+  <img src="Karate Anim.jpg" alt="My Profile Picture" width="200"/>
+</p>
 
 • Best Player – NSBM Sports Fiesta 2025 🥋🎖
 
