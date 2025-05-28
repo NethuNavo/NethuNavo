@@ -1,12 +1,21 @@
 <h3 align="center">☁️✨ Quote</h3>
 
-<p align="center">
-  <img src="https://github.com/NethuNavo/NethuNavo/blob/main/leaves.jpeg" alt="Leaves Banner" width="300" />
-</p>
+<table>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://github.com/NethuNavo/NethuNavo/blob/main/leaves.jpeg" alt="Leaves Left" width="100" />
+    </td>
+    <td align="center">
 
-<p align="center">
-  <em><strong>•|| Discipline, consistency, and creativity are my cornerstones – whether in code or on the mat. ❤️⭐</strong></em>
-</p>
+<em><strong>•|| Discipline, consistency, and creativity are my cornerstones – whether in code or on the mat. ❤️⭐</strong></em>
+
+    </td>
+    <td align="center" width="100">
+      <img src="https://github.com/NethuNavo/NethuNavo/blob/main/leaves.jpeg" alt="Leaves Right" width="100" />
+    </td>
+  </tr>
+</table>
+
 
 
 Hi , I'm Nethmini Jayamani ! ❤⭐
