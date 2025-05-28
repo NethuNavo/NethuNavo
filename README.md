@@ -79,13 +79,17 @@ Other Skills: UI/UX Design, QR Code Scanning Integration, Responsive Web Design
 
 <table align="center" style="background-color:#f3e8ff; border:2px solid #a855f7; border-radius:10px; padding:15px; width:90%;">
   <tr>
-    <td>
-      <p><strong style="color:#6b21a8;">🖊️ Co-Author:</strong> <em>"<span style="color:#4b0082;">Enhancing Security with Biometric and Heart Rate Data Integration</span>"</em></p>
-      <p><strong style="color:#6b21a8;">📍 Published at:</strong> <span style="color:#4b0082;">ICACT – NSBM Green University 2024 Conference</span></p>
-      <p><strong style="color:#6b21a8;">🔐 Focus:</strong> <span style="color:#4b0082;">Conducted research on biometric authentication and cybersecurity under expert guidance.</span></p>
+    <td align="left" width="50%" style="color:#4b0082; padding-right: 20px;">
+      <p><strong style="color:#6b21a8;">🖊️ Co-Author:</strong> <em>"Enhancing Security with Biometric and Heart Rate Data Integration"</em></p>
+      <p><strong style="color:#6b21a8;">📍 Published at:</strong> ICACT – NSBM Green University 2024 Conference</p>
+      <p><strong style="color:#6b21a8;">🔐 Focus:</strong> Conducted research on biometric authentication and cybersecurity under expert guidance.</p>
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github.com/NethuNavo/NethuNavo/blob/main/research.jpeg" alt="Research Image" width="250" style="border-radius:8px;" />
     </td>
   </tr>
 </table>
+
 
 ✨ Highlights
 
