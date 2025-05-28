@@ -95,7 +95,7 @@ Strong leadership, teamwork, and public speaking skills
 
 📫 Let's Connect!
 
-LinkedIn: Nethmini Navodya (https://www.linkedin.com/in/nethmini-navodya)
+LinkedIn: Nethmini Navodya (https://www.linkedin.com/in/nethmini-navodya-546599313)
 
 Gmail: [nethunavo24@gmail.com]
 
@@ -103,4 +103,4 @@ GitHub: github.com/NethuNavo (https://github.com/NethuNavo)
 
 Instagram: nethu__n__ (https://www.instagram.com/nethu__n_n)
 
-Discipline, consistency, and creativity are my cornerstones – whether in code or on the mat. ❤⭐  
+•|| Discipline, consistency, and creativity are my cornerstones – whether in code or on the mat. ❤⭐  
