@@ -64,9 +64,14 @@ An athlete performance tracking app designed for martial artists.
 
 <h3 align="center">📚 Research</h3>
 
-> 💜 **🖊️ Co-Author:** *"Enhancing Security with Biometric and Heart Rate Data Integration"*  
-> 🏛️ **Published at:** ICACT – NSBM Green University 2024 Conference  
-> 🔐 **Focus:** Conducted research on biometric authentication and cybersecurity under expert guidance.
+---
+
+> 🖊️ **Co-Author:** *"Enhancing Security with Biometric and Heart Rate Data Integration"*  
+> 📍 **Published at:** **ICACT – NSBM Green University 2024 Conference**  
+> 🔐 **Focus:** Conducted research on **biometric authentication** and **cybersecurity** under expert guidance.
+
+---
+
 
 ✨ Highlights
 
