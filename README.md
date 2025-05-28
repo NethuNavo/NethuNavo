@@ -123,6 +123,8 @@ Strong leadership, teamwork, and public speaking skills
 [![GitHub](https://img.shields.io/badge/GitHub-NethuNavo-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NethuNavo)
 [![Instagram](https://img.shields.io/badge/Instagram-nethu__n__-purple?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nethu__n_n)
 
-<p align="center" style="font-size:18px; font-weight:600; color:#5b21b6; background: linear-gradient(90deg, #a78bfa, #c4b5fd); padding: 10px 20px; border-radius: 12px; max-width: 600px; margin: auto;">
-  •|| <span style="color:#7c3aed;">Discipline</span>, <span style="color:#8b5cf6;">consistency</span>, and <span style="color:#a78bfa;">creativity</span> are my cornerstones – whether in <em>code</em> or on the <strong>mat</strong>. ❤⭐
+<p align="center">
+
+•|| **<span style="color:#7c3aed;">Discipline</span>**, **<span style="color:#8b5cf6;">consistency</span>**, and **<span style="color:#a78bfa;">creativity</span>** are my cornerstones – whether in *code* or on the **mat**. ❤⭐
+
 </p>
