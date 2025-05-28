@@ -60,7 +60,7 @@ Other Skills: UI/UX Design, QR Code Scanning Integration, Responsive Web Design
   </tr>
 </table>
 
-<h3 align="center">📱 Projects</h3>
+<h3>📱 Projects</h3>
 
 - 🔹 **GoWay App**  
   A mobile app for scanning QR codes to manage event participation.  
