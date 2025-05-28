@@ -31,7 +31,7 @@ Other Skills: UI/UX Design, QR Code Scanning Integration, Responsive Web Design
 
     </td>
     <td align="right">
-      <img src="Karate Anim.jpg" alt="Karate Image" width="200"/>
+      <img src="Karate%20Anim.jpg" alt="Karate Image" width="200"/>
     </td>
   </tr>
 </table>
