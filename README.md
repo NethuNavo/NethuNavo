@@ -63,33 +63,85 @@ Other Skills: UI/UX Design, QR Code Scanning Integration, Responsive Web Design
 
 <h3 align="center">📱 Projects</h3>
 
-> 🔹 **GoWay App**  
-> A mobile app for scanning QR codes to manage event participation.  
-> 🛠️ *Dart, Firebase Auth, Firestore, Realtime DB*  
->
-> 🔹 **Garage Management System**  
-> Complete garage platform with customer, mechanic, and service tracking modules.  
-> 🛠️ *PHP, MySQL, HTML, CSS, Bootstrap*  
->
-> 🔹 **EduTrack**  
-> Educational progress tracker for students to log performance and activities.  
-> 🛠️ *Flutter, Firebase*  
->
-> 🔹 **Aura Serene (UI/UX Focused)**  
-> Mental wellness mobile app concept with relaxation and mood tracking.  
-> 🛠️ *Figma, Flutter (Prototype)*  
->
-> 🔹 **Cinema Website**  
-> Responsive movie ticket booking and schedule management platform.  
-> 🛠️ *HTML, CSS, JavaScript, PHP, MySQL*  
->
-> 🔹 **EventManager** *(Upcoming)*  
-> University event registration and real-time update app.  
-> 🛠️ *Flutter, Firebase*  
->
-> 🔹 **KarateTracker** *(Upcoming)*  
-> Athlete performance tracking app for martial artists.  
-> 🛠️ *Flutter, Firebase*
+<table>
+  <tr>
+    <td colspan="2">
+      <hr>
+    </td>
+  </tr>
+  
+  <tr>
+    <td valign="top" width="50%">
+
+<details>
+<summary>🔹 <strong>GoWay App</strong></summary>
+<p>
+A mobile app for scanning QR codes to manage event participation.  
+🛠️ <em>Dart, Firebase Auth, Firestore, Realtime DB</em>
+</p>
+</details>
+
+<details>
+<summary>🔹 <strong>Garage Management System</strong></summary>
+<p>
+Complete garage platform with customer, mechanic, and service tracking modules.  
+🛠️ <em>PHP, MySQL, HTML, CSS, Bootstrap</em>
+</p>
+</details>
+
+<details>
+<summary>🔹 <strong>EduTrack</strong></summary>
+<p>
+Educational progress tracker for students to log performance and activities.  
+🛠️ <em>Flutter, Firebase</em>
+</p>
+</details>
+
+<details>
+<summary>🔹 <strong>Aura Serene (UI/UX Focused)</strong></summary>
+<p>
+Mental wellness mobile app concept with relaxation and mood tracking.  
+🛠️ <em>Figma, Flutter (Prototype)</em>
+</p>
+</details>
+
+    </td>
+    <td valign="top" width="50%">
+
+<details>
+<summary>🔹 <strong>Cinema Website</strong></summary>
+<p>
+Responsive movie ticket booking and schedule management platform.  
+🛠️ <em>HTML, CSS, JavaScript, PHP, MySQL</em>
+</p>
+</details>
+
+<details>
+<summary>🔹 <strong>EventManager</strong> <em>(Upcoming)</em></summary>
+<p>
+University event registration and real-time update app.  
+🛠️ <em>Flutter, Firebase</em>
+</p>
+</details>
+
+<details>
+<summary>🔹 <strong>KarateTracker</strong> <em>(Upcoming)</em></summary>
+<p>
+Athlete performance tracking app for martial artists.  
+🛠️ <em>Flutter, Firebase</em>
+</p>
+</details>
+
+    </td>
+  </tr>
+  
+  <tr>
+    <td colspan="2">
+      <hr>
+    </td>
+  </tr>
+</table>
+
 
 
 <h3 align="center">📚 Research</h3>
