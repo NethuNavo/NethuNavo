@@ -1,4 +1,4 @@
-<h3 align="center">☁️✨ Quote</h3>
+
 
 <table>
   <tr>
