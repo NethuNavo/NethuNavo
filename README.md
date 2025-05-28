@@ -9,8 +9,8 @@
 
 <em><strong>•|| Discipline, consistency, and creativity are my cornerstones – whether in code or on the mat. ❤️⭐</strong></em>
 
-    </td>
-    <td align="center" width="100">
+  </td>
+  <td align="center" width="100">
       <img src="https://github.com/NethuNavo/NethuNavo/blob/main/leaves.jpeg" alt="Leaves Right" width="100" />
     </td>
   </tr>
