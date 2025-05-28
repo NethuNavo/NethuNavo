@@ -76,6 +76,23 @@ Designed UI/UX for multiple NSBM club initiatives
 
 Strong leadership, teamwork, and public speaking skills
 
+<h3 align="center">📫 Connect with me:</h3>
+
+<p align="center">
+  <a href="https://github.com/YourGitHubUsername" target="_blank">
+    <img src="Github.png" alt="GitHub" width="40" />
+  </a>
+  <a href="https://www.linkedin.com/in/your-linkedin" target="_blank">
+    <img src="linkdin logo.png" alt="LinkedIn" width="40" />
+  </a>
+  <a href="https://www.instagram.com/your.instagram" target="_blank">
+    <img src="insta logo.jpeg" alt="Instagram" width="40" />
+  </a>
+  <a href="mailto:yourname@gmail.com">
+    <img src="gnail logo.png" alt="Gmail" width="40" />
+  </a>
+</p>
+
 📫 Let's Connect!
 
 LinkedIn: Nethmini Navodya (https://www.linkedin.com/in/nethmini-navodya)
