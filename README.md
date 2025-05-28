@@ -1,13 +1,13 @@
 <table>
   <tr>
     <td align="center" width="150">
-      <img src="https://github.com/NethuNavo/NethuNavo/blob/main/karate%202.jpg?raw=true" alt="Karate Pose 1" width="150" />
+      <img src="https://github.com/NethuNavo/NethuNavo/blob/main/karate%20girl.jpg?raw=true" alt="Karate Pose 1" width="150" />
     </td>
     <td align="center">
       <em><strong>•|| Driven by discipline. Powered by consistency. Inspired by creativity – in code and in combat 🥋❤️⭐</strong></em>
     </td>
     <td align="center" width="150">
-      <img src="https://github.com/NethuNavo/NethuNavo/blob/main/karate%20girl.jpg?raw=true" alt="Karate Pose 2" width="150" />
+      <img src="https://github.com/NethuNavo/NethuNavo/blob/main/karate%202.jpg?raw=true alt="Karate Pose 2" width="150" />
     </td>
   </tr>
 </table>
