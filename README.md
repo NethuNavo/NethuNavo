@@ -1,6 +1,8 @@
 Hi , I'm Nethmini Jayamani ! ❤⭐
 
-        ./Karate Anim.jpg
+        Karate Anim.jpg
+        ![Karate Animation](Karate%20Anim.jpg)
+
 
 I’m a passionate undergraduate from NSBM Green University with experience in mobile app development and competitive Karate. I love creating modern, user-friendly apps and representing Sri Lanka in national-level sports.
 
