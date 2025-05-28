@@ -101,6 +101,6 @@ Gmail: [nethunavo24@gmail.com]
 
 GitHub: github.com/NethuNavo (https://github.com/NethuNavo)
 
-Instagram: nethu__n__ (https://www.instagram.com/nethu__n__)
+Instagram: nethu__n__ (https://www.instagram.com/nethu__n_n)
 
 Discipline, consistency, and creativity are my cornerstones – whether in code or on the mat. ❤⭐  
