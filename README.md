@@ -5,7 +5,7 @@
     </td>
     <td align="center">
 
-<em><strong>•|| Discipline, consistency, and creativity are my cornerstones – whether in code or on the mat. ❤️⭐</strong></em>
+<em><strong>•|| Driven by discipline. Powered by consistency. Inspired by creativity – in code and in combat 🥋❤️⭐</strong></em>
 
   </td>
     <td align="center" width="150">
