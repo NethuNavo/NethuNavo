@@ -139,7 +139,7 @@ Strong leadership, teamwork, and public speaking skills
 
 ## 📫 Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nethmini%20Navodya-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nethmini-navodya-546599313)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nethmini%20Jayamani-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nethmini-jayamani-546599313)
 [![Gmail](https://img.shields.io/badge/Gmail-nethunavo24@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nethunavo24@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-NethuNavo-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NethuNavo)
 [![Instagram](https://img.shields.io/badge/Instagram-nethu__n__-purple?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nethu__n_n)
