@@ -129,7 +129,7 @@ Strong leadership, teamwork, and public speaking skills
   <a href="https://www.linkedin.com/in/your-linkedin" target="_blank">
     <img src="linkdin logo.png" alt="LinkedIn" width="40" />
   </a>
-  <a href="https://www.instagram.com/your.instagram" target="_blank">
+  <a href="https://www.instagram.com/nethu__n_n?utm_source=qr&igsh=MWMxNGdvOG14eWEyYQ==" target="_blank">
     <img src="insta logo.jpeg" alt="Instagram" width="40" />
   </a>
   <a href="mailto:nethunavo24@gmail.com">
