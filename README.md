@@ -33,13 +33,13 @@ Hi , I'm Nethmini Jayamani ! ❤
 
 Languages: Dart, Java, HTML, CSS, JavaScript, PHP
 
-Frameworks: Flutter
+Frameworks: Flutter, React.js, Express.js, Node.js (MERN Stack)
 
-Database & Backend: Firebase (Authentication, Firestore, Realtime DB), MySQL
+Database & Backend: Firebase (Authentication, Firestore, Realtime DB), MySQL, MongoDB, MongoDB Atlas
 
 Tools: Git, GitHub, Figma, Canva, Adobe XD, Android Studio, XAMPP
 
-Other Skills: UI/UX Design, QR Code Scanning Integration, Responsive Web Design
+Other Skills: UI/UX Design, QR Code Scanning Integration, Face Scan Integration, Responsive Web Design
 
 <h3 align="center">🏆 Achievements</h3>
 
