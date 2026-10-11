@@ -126,7 +126,7 @@ Strong leadership, teamwork, and public speaking skills
   <a href="https://github.com/NethuNavo" target="_blank">
     <img src="Github.png" alt="GitHub" width="40" />
   </a>
-  <a href="https://www.linkedin.com/in/your-linkedin" target="_blank">
+  <a href="https://www.linkedin.com/in/nethmini-jayamani-546599313" target="_blank">
     <img src="linkdin logo.png" alt="LinkedIn" width="40" />
   </a>
   <a href="https://www.instagram.com/nethu__n_n?utm_source=qr&igsh=MWMxNGdvOG14eWEyYQ==" target="_blank">
