@@ -64,34 +64,99 @@ Other Skills: UI/UX Design, QR Code Scanning Integration, Face Scan Integration,
 
 
 
-- 🔹 **GoWay App**  
-  A mobile app for scanning QR codes to manage event participation.  
-  🛠️ *Dart, Firebase Auth, Firestore, Realtime DB*
+💻 Completed Projects
 
-- 🔹 **Garage Management System**  
-  Complete garage platform with customer, mechanic, and service tracking modules.  
-  🛠️ *PHP, MySQL, HTML, CSS, Bootstrap*
+1. 🚌 GoWay – Public Transport Service
 
-- 🔹 **EduTrack**  
-  Educational progress tracker for students to log performance and activities.  
-  🛠️ *Flutter, Firebase*
+A Flutter-based mobile application designed to modernize public transportation in Sri Lanka. The platform includes QR code-based fare payments, real-time GPS tracking, seat reservations, and a complaint and feedback system.
 
-- 🔹 **Aura Serene (UI/UX Focused)**  
-  Mental wellness mobile app concept with relaxation and mood tracking.  
-  🛠️ *Figma, Flutter (Prototype)*
+Technologies: Flutter, Dart, QR Code Integration, GPS Tracking
 
-- 🔹 **Cinema Website**  
-  Responsive movie ticket booking and schedule management platform.  
-  🛠️ *HTML, CSS, JavaScript, PHP, MySQL*
+📂 GitHub Repository
 
-- 🔹 **EventManager** *(Upcoming)*  
-  University event registration and real-time update app.  
-  🛠️ *Flutter, Firebase*
+🖼️ Project Preview
 
-- 🔹 **KarateTracker** *(Upcoming)*  
-  Athlete performance tracking app for martial artists.  
-  🛠️ *Flutter, Firebase*
+2. 🎓 EduTrack – Student Academic Management System
 
+A student academic management application designed to help students monitor their academic progress. Features include GPA calculation, score planning, module credit management, schedule organization, and deadline notifications.
+
+Technologies: Flutter, Dart, Firebase, UI/UX Design
+
+📂 GitHub Repository
+
+🖼️ Project Preview
+
+3. 🔧 KAduna – Smart Garage Management System
+
+A garage management solution designed to simplify daily garage operations through appointment booking, inventory tracking, customer management, service management, and billing.
+
+Technologies: C#, Web Development, Database Management
+
+🖼️ Project Preview
+
+4. 🛋️ Furniture Design App
+
+A modern furniture visualization platform that allows users to design and preview interior layouts. The application supports interactive furniture placement, secure authentication, and responsive user interfaces.
+
+Technologies: React, Next.js, TypeScript, Tailwind CSS, Node.js, Three.js
+
+📂 GitHub Repository
+
+🌐 Live Demo
+
+🖼️ Project Preview
+
+5. 🧠 MoodMart – Mental Wellness & E-Commerce Platform
+
+A full-stack mental wellness and e-commerce platform combining personalized wellness features with online shopping. The system includes secure authentication, mood tracking, face-based emotion analysis, guided audio therapy, product management, and Stripe payment integration.
+
+Technologies: React.js, Node.js, Express.js, MongoDB, Tailwind CSS, Stripe API
+
+📂 GitHub Repository
+
+🌐 Live Demo
+
+🖼️ Project Preview
+
+6. 🎬 Silent Cinema – Movie Booking System
+
+A responsive cinema website that enables users to explore movies, manage booking schedules, select seats, and book movie tickets online.
+
+Technologies: HTML, CSS, JavaScript, PHP, MySQL
+
+📂 GitHub Repository
+
+🖼️ Project Preview
+
+7. 🌿 Aura Serene – E-Commerce & Wellness Concept
+
+A wellness-oriented digital concept focused on eco-friendly skincare products and candles. The e-commerce platform features product browsing, an intuitive interface, user authentication, checkout functionality, and customer feedback options.
+
+Technologies: HTML, CSS, Bootstrap, JavaScript, UI/UX Design
+
+🖼️ Project Preview
+
+8. 🎟️ EventHub – Event Registration System
+
+A modern full-stack web application for event registration, featuring a responsive user interface, real-time form validation, MongoDB Atlas integration, and automated email notifications.
+
+Technologies: Next.js, React, Tailwind CSS, MongoDB Atlas, Nodemailer
+
+📂 GitHub Repository
+
+🌐 Live Demo
+
+🖼️ Project Preview
+
+9. 🛒 ECO Mart – Supermarket POS & Inventory Management System
+
+A PHP and MySQL-based point-of-sale and inventory management system designed for supermarkets and retail stores. Features include barcode-based checkout, product and stock management, supplier management, cashier shift management, returns processing, and sales reporting.
+
+Technologies: PHP, MySQL, JavaScript, HTML, CSS, XAMPP
+
+📂 GitHub Repository
+
+🖼️ Project Preview
 
 
 
