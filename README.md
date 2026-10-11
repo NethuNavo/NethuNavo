@@ -19,7 +19,9 @@ Hi , I'm Nethmini Jayamani ! ❤
 <table width="100%">
   <tr>
     <td align="left" width="60%">
-      I’m a passionate undergraduate from NSBM Green University with experience in mobile app development and competitive Karate. I love creating modern, user-friendly apps and representing Sri Lanka in national-level sports.
+      I am Nethmini Jayamani, a Software Engineering graduate from NSBM Green University , affiliated with the University of Plymouth, UK. My journey combines the precision of coding with the discipline and dedication of martial arts. I specialize in mobile and web application development, UI/UX design, and full-stack solutions, creating intuitive user experiences and robust digital applications.
+
+I am passionate about using technology to solve real-world problems while continuously expanding my technical and professional skills. Beyond technology, I proudly represent Sri Lanka in international-level Karate tournaments, bringing the same dedication, discipline, leadership, and focus to my professional and athletic pursuits.
     </td>
     <td align="right" width="40%">
       <img src="Insomnia.gif" alt="Insomnia GIF" width="250" />
