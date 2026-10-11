@@ -72,9 +72,6 @@ A Flutter-based mobile application designed to modernize public transportation i
 
 Technologies: Flutter, Dart, QR Code Integration, GPS Tracking
 
-📂 GitHub Repository
-
-🖼️ Project Preview
 
 2. 🎓 EduTrack – Student Academic Management System
 
@@ -82,9 +79,6 @@ A student academic management application designed to help students monitor thei
 
 Technologies: Flutter, Dart, Firebase, UI/UX Design
 
-📂 GitHub Repository
-
-🖼️ Project Preview
 
 3. 🔧 KAduna – Smart Garage Management System
 
@@ -92,7 +86,7 @@ A garage management solution designed to simplify daily garage operations throug
 
 Technologies: C#, Web Development, Database Management
 
-🖼️ Project Preview
+
 
 4. 🛋️ Furniture Design App
 
@@ -100,11 +94,9 @@ A modern furniture visualization platform that allows users to design and previe
 
 Technologies: React, Next.js, TypeScript, Tailwind CSS, Node.js, Three.js
 
-📂 GitHub Repository
-
 🌐 Live Demo
 
-🖼️ Project Preview
+
 
 5. 🧠 MoodMart – Mental Wellness & E-Commerce Platform
 
@@ -112,11 +104,9 @@ A full-stack mental wellness and e-commerce platform combining personalized well
 
 Technologies: React.js, Node.js, Express.js, MongoDB, Tailwind CSS, Stripe API
 
-📂 GitHub Repository
-
 🌐 Live Demo
 
-🖼️ Project Preview
+
 
 6. 🎬 Silent Cinema – Movie Booking System
 
@@ -124,9 +114,7 @@ A responsive cinema website that enables users to explore movies, manage booking
 
 Technologies: HTML, CSS, JavaScript, PHP, MySQL
 
-📂 GitHub Repository
 
-🖼️ Project Preview
 
 7. 🌿 Aura Serene – E-Commerce & Wellness Concept
 
@@ -134,7 +122,7 @@ A wellness-oriented digital concept focused on eco-friendly skincare products an
 
 Technologies: HTML, CSS, Bootstrap, JavaScript, UI/UX Design
 
-🖼️ Project Preview
+
 
 8. 🎟️ EventHub – Event Registration System
 
@@ -142,22 +130,15 @@ A modern full-stack web application for event registration, featuring a responsi
 
 Technologies: Next.js, React, Tailwind CSS, MongoDB Atlas, Nodemailer
 
-📂 GitHub Repository
-
 🌐 Live Demo
 
-🖼️ Project Preview
+
 
 9. 🛒 ECO Mart – Supermarket POS & Inventory Management System
 
 A PHP and MySQL-based point-of-sale and inventory management system designed for supermarkets and retail stores. Features include barcode-based checkout, product and stock management, supplier management, cashier shift management, returns processing, and sales reporting.
 
 Technologies: PHP, MySQL, JavaScript, HTML, CSS, XAMPP
-
-📂 GitHub Repository
-
-🖼️ Project Preview
-
 
 
 
