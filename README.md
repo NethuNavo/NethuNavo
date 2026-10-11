@@ -275,7 +275,6 @@ Research exploring biometric authentication and the integration of heart-rate da
 **🔗 Research Links**
 
 - 📄 [View Research Publication on ResearchGate](https://www.researchgate.net/publication/389286892_Enhancing_Security_with_Biometric_and_Heart_Rate_Data_Integration_A_Comprehensive_Review)
-- 🖼️ [View Research Image](https://github.com/NethuNavo/NethuNavo/blob/main/research.jpeg)
 
 <div align="center">
 
