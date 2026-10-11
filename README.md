@@ -123,7 +123,7 @@ Strong leadership, teamwork, and public speaking skills
 <h3 align="center">📫 Connect with me:</h3>
 
 <p align="center">
-  <a href="https://github.com/YourGitHubUsername" target="_blank">
+  <a href="https://github.com/NethuNavo" target="_blank">
     <img src="Github.png" alt="GitHub" width="40" />
   </a>
   <a href="https://www.linkedin.com/in/your-linkedin" target="_blank">
